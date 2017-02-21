@@ -12,6 +12,7 @@ Hangouts (the same as email), or Telegram (@nathanchance).
 + [Adding Substratum support to your ROM](AddingSupport.md)
 + [Contributing to our project](Contributing.md)
 + [Building Substratum](BuildingSubstratum.md)
++ [Creating a theme](https://github.com/TeamSubstratum/SubstratumThemeTemplate/blob/master/README.md)
 
 # Important links
 
