@@ -8,6 +8,7 @@ Hangouts (the same as email), or Telegram (@nathanchance).
 
 # Current pages
 
++ [Frequently Asked Questions](FAQ.md)
 + [Adding Substratum support to your ROM](AddingSupport.md)
 + [Contributing to our project](Contributing.md)
 + [Building Substratum](BuildingSubstratum.md)
