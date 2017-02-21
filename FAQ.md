@@ -60,3 +60,7 @@ Once the theme is done compiling, SystemUI will restart and the theme will be ap
 3. ROM and device
 4. Theme being used
 5. A logcat ([guide here](https://raw.githubusercontent.com/nathanchance/Android-Tools/master/Guides/Proper_Bug_Reporting.txt))
+
+### 9. How can I contribute to translating the app in my native language?
+
+Please go to our [Crowdin](http://translate.projektsubstratum.com) and start translating our strings!
