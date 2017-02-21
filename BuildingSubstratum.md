@@ -3,6 +3,12 @@
 In order to contribute any changes to Substratum, you will need to know how to
 build the APK. This can be done in two ways: Android Studio or the command line.
 
+A note about these APKs: these should only be used for testing purposes since
+they are debug APKs (i.e. not signed with the official keys, meaning that they
+cannot be installed over a Play Store version). They should not be included in
+ROMs unless you are willing to build every time there is a new commit. We will
+also not provide support for debug APKs.
+
 # Android Studio
 
 ### 1. Grab the latest copy of Android Studio
