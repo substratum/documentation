@@ -89,6 +89,8 @@ change. Also be sure not to change the commit ID.
 
 # Submitting application changes
 
+Be sure you know [how to build the Substratum APK](BuildingSubstratum.md) before attempting this.
+
 ### 1. Fork the Substratum application
 
 Go to the [Substratum repo](https://github.com/nicholaschum/substratum) and click on the fork button then select where you want
