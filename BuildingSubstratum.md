@@ -22,7 +22,7 @@ Make sure you install the latest SDK and build tools.
 1. Open Android Studio
 2. Click "Checkout project from Version Control"
 3. Set up your Github credentials if you have not done so already
-4. Put <https://github.com/nicholaschum/substratum> into the URL field and select where you want it cloned.
+4. Put <https://github.com/substratum/substratum> into the URL field and select where you want it cloned.
 5. Hit Clone.
 6. Hit Yes to opening the gradle file.
 7. Hit OK on the next window to select the default values.
@@ -71,7 +71,7 @@ export ANDROID_HOME=<full_sdk_path>
 ### 3. Clone the Substratum repo
 
 ```bash
-git clone https://github.com/nicholaschum/substratum substratum
+git clone https://github.com/substratum/substratum
 cd substratum
 ```
 

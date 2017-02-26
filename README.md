@@ -12,13 +12,13 @@ Hangouts (the same as email), or Telegram (@nathanchance).
 + [Adding Substratum support to your ROM](AddingSupport.md)
 + [Contributing to our project](Contributing.md)
 + [Building Substratum](BuildingSubstratum.md)
-+ [Creating a theme](https://github.com/TeamSubstratum/SubstratumThemeTemplate/blob/master/README.md)
++ [Creating a theme](https://github.com/substratum/template/blob/master/README.md)
 
 # Important links
 
 + [Substratum Google+ community](https://plus.google.com/communities/102261717366580091389): Used for support
-+ [Substratum](https://github.com/nicholaschum/substratum): The core application
-+ [Masquerade](https://github.com/TeamSubstratum/masquerade): Our link between Substratum and the framework (compiled inline)
++ [Substratum](https://github.com/substratum/substratum): The user facing application
++ [Masquerade](https://github.com/substratum/masquerade): Our link between Substratum and the framework (compiled inline)
 + [OMS7 framework repos](https://github.com/SubstratumResources): The OMS7 framework changes along with our exposures
-+ [Theme Template](https://github.com/TeamSubstratum/SubstratumThemeTemplate): The official Substratum theme template
++ [Theme Template](https://github.com/substratum/template): The official Substratum theme template
 + [Showcase submission form](https://docs.google.com/forms/d/e/1FAIpQLSf5p5Lcag6jdrAz9wZ3UYiIy_Rm0mEko6z79wBjmZlGXunzgg/viewform): The app includes a built in showcase for supported themes. This form gets your theme into that showcase

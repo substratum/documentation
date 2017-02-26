@@ -18,7 +18,7 @@ commands to OMS.
 
 As of February 21st, 2017, root is required for the Play Store release but we are
 currently testing rootless integration. If you would like to test, please add all
-of the rootless commits from [our Gerrit](http://review.projektsubstratum.com/#/q/topic:rootless) and [build an APK](BuildingSubstratum.md).
+of the rootless commits from [our Gerrit](http://review.projektsubstratum.com/#/q/topic:rootless) and [masquerade](https://github.com/substatum/masquerade/commits/n-rootless) then [build an APK](BuildingSubstratum.md).
 
 If you are unable to build an APK, contact Nathan Chancellor via one of the methods
 in the [README](README.md) and he will get you into our private testing chat.

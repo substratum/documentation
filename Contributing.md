@@ -9,6 +9,8 @@ properly push your changes.
 
 These will include new framework features and exposures.
 
+Our framework changes are hosted at our [SubstratumResources organization](https://github.com/SubstratumResources). [Masquerade](https://github.com/substratum/masquerade) changes are also done though Gerrit.
+
 ### 1. Set up your Gerrit account
 
 1. Go to the [Substratum Gerrit](http://review.projektsubstratum.com/)
@@ -26,16 +28,16 @@ that was generated.
 
 ### 3. Clone the repo you want to change
 
-Clone the repo from our [SubstratumResources organization](https://github.com/SubstratumResources). Everything is currently
-done on our n-mr1-oms7 branch
+Clone the repo from the link above. Everything is currently done on our n-mr1-rootless branch for the framework and n-rootless branch for masquerade.
 
 ```bash
-git clone -b n-mr1-oms7 <repo_url>
+git clone -b n-mr1-rootless <repo_url>
+git clone -b n-rootless https://github.com/substratum/masquerade
 ```
 
 Example:
 ```bash
-git clone -b n-mr1-oms7 https://github.com/SubstratumResources/platform_frameworks_base
+git clone -b n-mr1-rootless https://github.com/SubstratumResources/platform_frameworks_base
 ```
 
 ### 4. Make and commit your changes
@@ -79,7 +81,7 @@ Our list of projects are available [here](http://review.projektsubstratum.com/#/
 
 Example:
 ```bash
-git push ssh://nathanchance@review.projektsubstratum.com:29418/SubstratumResources/platform_frameworks_base HEAD:refs/for/n-mr1-oms7
+git push ssh://nathanchance@review.projektsubstratum.com:29418/SubstratumResources/platform_frameworks_base HEAD:refs/for/n-mr1-rootless
 ```
 
 If you need to make any changes to your patch, use `git commit --amend` then push
@@ -93,7 +95,7 @@ Be sure you know [how to build the Substratum APK](BuildingSubstratum.md) before
 
 ### 1. Fork the Substratum application
 
-Go to the [Substratum repo](https://github.com/nicholaschum/substratum) and click on the fork button then select where you want
+Go to the [Substratum repo](https://github.com/substratum/substratum) and click on the fork button then select where you want
 the fork to reside.
 
 ### 2. Make and commit your changes

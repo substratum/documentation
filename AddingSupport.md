@@ -60,7 +60,7 @@ your manifest (leave out the remote if you already have one for Github):
 <remote name="github"
         fetch="https://github.com/" />
 
-<project path="packages/apps/masquerade" name="TeamSubstratum/masquerade" remote="github" revision="n" />
+<project path="packages/apps/masquerade" name="substratum/masquerade" remote="github" revision="n" />
 ```
 
 You may also fork it and add our changes as we push them (you will need to pay
@@ -104,4 +104,5 @@ include $(BUILD_PREBUILT)
 ```
 
 This will keep the certificate of the APK intact so that the Play Store can
-install updates successfully.
+install updates successfully. If you include debug APKs, we will not support
+your users.
