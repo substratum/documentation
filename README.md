@@ -21,4 +21,5 @@ Hangouts (the same as email), or Telegram (@nathanchance).
 + [Masquerade](https://github.com/substratum/masquerade): Our link between Substratum and the framework (compiled inline)
 + [OMS7 framework repos](https://github.com/SubstratumResources): The OMS7 framework changes along with our exposures
 + [Theme Template](https://github.com/substratum/template): The official Substratum theme template
++ [Substratum Gerrit](https://substratum.review/): Our Gerrit server for code reviewing framework changes
 + [Showcase submission form](https://docs.google.com/forms/d/e/1FAIpQLSf5p5Lcag6jdrAz9wZ3UYiIy_Rm0mEko6z79wBjmZlGXunzgg/viewform): The app includes a built in showcase for supported themes. This form gets your theme into that showcase

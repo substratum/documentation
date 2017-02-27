@@ -1,7 +1,7 @@
 # Contributing to Substratum development
 
 We openly welcome patches for both the OMS framework and the Substratum application.
-Framework changes (including Masquerade) are done through our [Gerrit](http://review.projektsubstratum.com/) and changes
+Framework changes (including Masquerade) are done through our [Gerrit](https://substratum.review/) and changes
 to the Substratum app are done via pull requests. This will go over how to
 properly push your changes.
 
@@ -13,7 +13,7 @@ Our framework changes are hosted at our [SubstratumResources organization](https
 
 ### 1. Set up your Gerrit account
 
-1. Go to the [Substratum Gerrit](http://review.projektsubstratum.com/)
+1. Go to the [Substratum Gerrit](https://substratum.review/)
 2. Click the sign in button in the upper left-hand corner
 3. Sign in with your Google account
 4. Click the avatar/name in the upper left-hand corner
@@ -63,7 +63,7 @@ git commit --amend --author="Name <email>"
 Once your commit is in good shape, add a change ID:
 
 ```bash
-curl -Lo .git/hooks/commit-msg http://review.projektsubstratum.com/tools/hooks/commit-msg
+curl -Lo .git/hooks/commit-msg https://substratum.review/tools/hooks/commit-msg
 git commit --amend
 ```
 
@@ -77,7 +77,7 @@ The push command takes the following format:
 git push ssh://<USERNAME>@review.projektsubstratum.com:29418/<PROJECT> HEAD:refs/for/<BRANCH>
 ```
 
-Our list of projects are available [here](http://review.projektsubstratum.com/#/admin/projects/).
+Our list of projects are available [here](https://substratum.review/#/admin/projects/).
 
 Example:
 ```bash
