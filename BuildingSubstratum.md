@@ -78,7 +78,7 @@ cd substratum
 ### 4. Build the APK
 
 ```bash
-gradlew assembleDebug
+./gradlew assembleDebug
 ```
 
 The finalized APK will be in the app/build/outputs/apk folder within the Substratum repo folder.
