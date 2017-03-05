@@ -37,7 +37,7 @@ APK file once that is done.
 This is perfect for people with build servers or those who just prefer to work
 from the command line.
 
-NOTE: For the SDK and gradlew binary commands, macOS/Linux users may need to add `./` or `bash` before the command.
+NOTE: For the SDK and gradlew binary commands, Windows users will need to remove the `./` before the command.
 
 ### 1. Grab the latest Android build tools
 
@@ -52,8 +52,8 @@ NOTE: For the SDK and gradlew binary commands, macOS/Linux users may need to add
 
    ```bash
    cd <desired_folder_name>
-   tools/android update sdk --no-ui
-   tools/android update sdk -u -a -t #
+   ./tools/android update sdk --no-ui
+   ./tools/android update sdk -u -a -t #
    ```
 
    Where as # is the number of the package you want to install. You will need the
@@ -78,7 +78,7 @@ cd substratum
 ### 4. Build the APK
 
 ```bash
-gradlew assembleDebug
+./gradlew assembleDebug
 ```
 
 The finalized APK will be in the app/build/outputs/apk folder within the Substratum repo folder.
