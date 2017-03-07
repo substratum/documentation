@@ -18,7 +18,7 @@ Hangouts (the same as email), or Telegram (@nathanchance).
 
 + [Substratum Google+ community](https://plus.google.com/communities/102261717366580091389): Used for support
 + [Substratum](https://github.com/substratum/substratum): The user facing application
-+ [Masquerade](https://github.com/substratum/masquerade): Our link between Substratum and the framework (compiled inline)
++ [Theme Interfacer](https://github.com/substratum/interfacer): Our link between Substratum and the framework (compiled inline)
 + [OMS7 framework repos](https://github.com/SubstratumResources): The OMS7 framework changes along with our exposures
 + [Theme Template](https://github.com/substratum/template): The official Substratum theme template
 + [Substratum Gerrit](https://substratum.review/): Our Gerrit server for code reviewing framework changes

@@ -1,7 +1,7 @@
 # Contributing to Substratum development
 
 We openly welcome patches for both the OMS framework and the Substratum application.
-Framework changes (including Masquerade) are done through our [Gerrit](https://substratum.review/) and changes
+Framework changes (including Theme Interfacer) are done through our [Gerrit](https://substratum.review/) and changes
 to the Substratum app are done via pull requests. This will go over how to
 properly push your changes.
 
@@ -9,7 +9,7 @@ properly push your changes.
 
 These will include new framework features and exposures.
 
-Our framework changes are hosted at our [SubstratumResources organization](https://github.com/SubstratumResources). [Masquerade](https://github.com/substratum/masquerade) changes are also done though Gerrit.
+Our framework changes are hosted at our [SubstratumResources organization](https://github.com/SubstratumResources). [Theme Interfacer](https://github.com/substratum/interfacer) changes are also done though Gerrit.
 
 ### 1. Set up your Gerrit account
 
@@ -28,11 +28,11 @@ that was generated.
 
 ### 3. Clone the repo you want to change
 
-Clone the repo from the link above. Everything is currently done on our n-mr1-rootless branch for the framework and n-rootless branch for masquerade.
+Clone the repo from the link above. Everything is currently done on our n-mr1-rootless branch for the framework and n-rootless branch for Theme Interfacer.
 
 ```bash
 git clone -b n-mr1-rootless <repo_url>
-git clone -b n-rootless https://github.com/substratum/masquerade
+git clone -b n-rootless https://github.com/substratum/interfacer
 ```
 
 Example:

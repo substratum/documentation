@@ -9,19 +9,14 @@ Service.
 
 In a nutshell, we have added Sony's Overlay Manager Service to Android's framework,
 which allows us to apply overlays (a changing of resources) to applications, which will
-change their looks. To accomplish this, we have Masquerade, which is compiled
+change their looks. To accomplish this, we have Theme Interfacer, which is compiled
 inline with the ROM and placed into system with higher privileges, which acts as
 the bridge between Substratum (the UI) and the framework by sending specialized
 commands to OMS.
 
 ### 3. Is root required?
 
-As of February 21st, 2017, root is required for the Play Store release but we are
-currently testing rootless integration. If you would like to test, please add all
-of the rootless commits from [our Gerrit](https://substratum.review/#/q/topic:rootless) and [masquerade](https://github.com/substatum/masquerade/commits/n-rootless) then [build an APK](BuildingSubstratum.md).
-
-If you are unable to build an APK, contact Nathan Chancellor via one of the methods
-in the [README](README.md) and he will get you into our private testing chat.
+As of March 6th, 2017, root is no longer required for the vast majority of operations (application of overlays, sounds, fonts, and wallpapers). The major exception to this is the application of boot animations on encrypted data partitions.
 
 ### 4. How do I support Substratum?
 
@@ -48,18 +43,16 @@ Once the theme is done compiling, SystemUI will restart and the theme will be ap
 
 1. Make sure that all of the theme applied (including framework). Rebuild the overlays if needed.
 2. Do a full reboot. Occasionally, certain aspects will need a full reboot to be properly themed. One of the more common instances of this are notifications.
-3. Make sure you are on an OMS-compatible ROM with all of the necessary exposures. Stock ROMs do not theme will on Nougat. Ask your ROM developer to check [our SubstratumResources organization](https://github.com/SubstratumResources) and make sure their commits line up with ours.
-4. Make sure that Masquerade and Substratum have been given full root access. Certain ROMs like LineageOS may not work with another root solution other than SuperSU because of SELinux.
-5. Contact the themer to make sure that they have themed the aspect properly.
-6. If all else fails, post in the [Substratum Google+ community](https://plus.google.com/communities/102261717366580091389) using the info below.
+3. Make sure you are on an OMS-compatible ROM with all of the necessary exposures and Theme Interfacer. Stock ROMs do not theme will on Nougat. Ask your ROM developer to check [our SubstratumResources organization](https://github.com/SubstratumResources) and make sure their commits line up with ours.
+4. Contact the themer to make sure that they have themed the aspect properly.
+5. If all else fails, post in the [Substratum Google+ community](https://plus.google.com/communities/102261717366580091389) using the info below.
 
 ### 8. What do I include in a bug report?
 
-1. Substratum version
-2. Masquerade version
-3. ROM and device
-4. Theme being used
-5. A logcat ([guide here](https://raw.githubusercontent.com/nathanchance/Android-Tools/master/Guides/Proper_Bug_Reporting.txt))
+1. A detailed description of the issue
+2. A screenshot of Substratum settings
+3. Theme being used
+4. A logcat ([guide here](https://raw.githubusercontent.com/nathanchance/Android-Tools/master/Guides/Proper_Bug_Reporting.txt))
 
 ### 9. How can I contribute to translating the app in my native language?
 
