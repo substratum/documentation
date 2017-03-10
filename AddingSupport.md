@@ -92,14 +92,17 @@ Add this bit to your Android.mk file for your prebuilt apps (assuming the Substr
 APK in that same folder, otherwise change the LOCAL_SRC_FILES line):
 
 ```makefile
+LOCAL_PATH := $(call my-dir)
+
 include $(CLEAR_VARS)
 LOCAL_MODULE := Substratum
-LOCAL_SRC_FILES := Substratum.apk
-LOCAL_MODULE_SUFFIX := .apk
-LOCAL_MODULE_CLASS := APPS
-LOCAL_CERTIFICATE := PRESIGNED
-LOCAL_MODULE_PATH  := $(TARGET_OUT_APPS)
 LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := APPS
+LOCAL_BUILT_MODULE_STEM := package.apk
+# Make sure the build system doesn't try to resign the APK
+LOCAL_CERTIFICATE := PRESIGNED
+LOCAL_DEX_PREOPT := false
+LOCAL_SRC_FILES := Substratum.apk
 include $(BUILD_PREBUILT)
 ```
 
