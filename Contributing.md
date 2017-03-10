@@ -81,7 +81,7 @@ Our list of projects are available [here](https://substratum.review/#/admin/proj
 
 Example:
 ```bash
-git push ssh://nathanchance@review.projektsubstratum.com:29418/SubstratumResources/platform_frameworks_base HEAD:refs/for/n-mr1-rootless
+git push ssh://nathanchance@substratum.review:29418/SubstratumResources/platform_frameworks_base HEAD:refs/for/n-mr1-rootless
 ```
 
 If you need to make any changes to your patch, use `git commit --amend` then push
