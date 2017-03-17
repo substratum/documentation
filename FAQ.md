@@ -22,11 +22,15 @@ As of March 6th, 2017, root is no longer required for the vast majority of opera
 
 By following our [adding Substratum support to your ROM](AddingSupport.md) guide!
 
+If you do add support, let us promote you! Fill out the ROM submission form in
+our [supported ROMs list](SupportedROMs.md) so we can add you!
+
 ### 5. Can Substratum be used without OMS changes?
 
 Yes (henceforth referred to as legacy) but most functions will be unavailable aside
 from overlays. The app will also require root to move the overlays into place
-and some themes will not work with legacy.
+and some themes will not work with legacy. You can see our list of supported OMS
+ROMs [here](SupportedROMs.md) if you want the full experience.
 
 ### 6. How do I apply a theme?
 

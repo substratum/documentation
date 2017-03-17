@@ -10,6 +10,7 @@ Hangouts (the same as email), or Telegram (@nathanchance).
 
 + [Frequently Asked Questions](FAQ.md)
 + [Adding Substratum support to your ROM](AddingSupport.md)
++ [List of supported ROMs](SupportedROMs.md)
 + [Contributing to our project](Contributing.md)
 + [Building Substratum](BuildingSubstratum.md)
 + [Creating a theme](https://github.com/substratum/template/blob/master/README.md)
@@ -23,3 +24,4 @@ Hangouts (the same as email), or Telegram (@nathanchance).
 + [Theme Template](https://github.com/substratum/template): The official Substratum theme template
 + [Substratum Gerrit](https://substratum.review/): Our Gerrit server for code reviewing framework changes
 + [Showcase submission form](https://docs.google.com/forms/d/e/1FAIpQLSf5p5Lcag6jdrAz9wZ3UYiIy_Rm0mEko6z79wBjmZlGXunzgg/viewform): The app includes a built in showcase for supported themes. This form gets your theme into that showcase
++ [ROM submission form](https://docs.google.com/forms/d/e/1FAIpQLSdazHsGs084963mmFOM4ceAkJv0TaYUvcySxljw9SnFE7kNfg/viewform): This repo contains a list of ROMs that fully support our system. Let us promote you!

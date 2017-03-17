@@ -81,6 +81,9 @@ PRODUCT_PACKAGES += \
 After that, you are done! You can build your ROM and download the app from the
 Play Store!
 
+Let us promote you if you do decide to add support. Fill out the ROM submission
+form in our [supported ROMs list](SupportedROMs.md) so we can add you!
+
 # Compiling Substratum as a prebuilt
 
 Should you want to inline Substratum into your ROM directly, you must do it using
