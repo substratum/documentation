@@ -34,3 +34,4 @@ Each ROM will have their own page with their info.
 + [Uber ROM](ROMs/Uber.md)
 + [Validus](ROMs/Validus.md)
 + [Vanilla](ROMs/Vanilla.md)
++ [Vanir](ROMs/Vanir.md)
