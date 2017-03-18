@@ -31,6 +31,7 @@ Each ROM will have their own page with their info.
 + [Dirty Unicorns](ROMs/DU.md)
 + [Euclidean OS](ROMs/EuclideanOS.md)
 + [FireHound](ROMs/FireHound.md)
++ [Flash ROM](ROMs/FlashROM.md)
 + [HalogenOS](ROMs/Halogen.md)
 + [ibrokemyrom](ROMs/ibrokemyrom.md)
 + [Krexus](ROMs/Krexus.md)
