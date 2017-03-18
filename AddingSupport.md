@@ -18,8 +18,10 @@ exposures that we have tried to label).
 + [packages/apps/ContactsCommon](https://github.com/SubstratumResources/platform_packages_apps_ContactsCommon/commits/n-mr1-rootless)
 + [packages/apps/Dialer](https://github.com/SubstratumResources/platform_packages_apps_Dialer/commits/n-mr1-rootless)
 + [packages/apps/ExactCalculator](https://github.com/SubstratumResources/platform_packages_apps_ExactCalculator/commits/n-mr1-rootless)
++ [packages/apps/PackageInstaller](https://github.com/SubstratumResources/platform_packages_apps_PackageInstaller/commits/n-mr1-rootless)
 + [packages/apps/PhoneCommon](https://github.com/SubstratumResources/platform_packages_apps_PhoneCommon/commits/n-mr1-rootless)
 + [packages/apps/Settings](https://github.com/SubstratumResources/platform_packages_apps_settings/commits/n-mr1-rootless)
++ [system/core](https://github.com/SubstratumResources/platform_system_core/commits/n-mr1-rootless)
 + [system/sepolicy](https://github.com/SubstratumResources/platform_system_sepolicy/commits/n-mr1-rootless)
 
 For the projekt_*.xml files, you can add those changes to your own ROM's xml

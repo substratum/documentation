@@ -5,3 +5,4 @@
 + **Support locations:**
     + Google+: https://plus.google.com/communities/109738128866939227235
     + Devs-Base: https://devs-base.com/viewforum.php?f=22
++ **Source code location:** https://github.com/DirtyUnicorns

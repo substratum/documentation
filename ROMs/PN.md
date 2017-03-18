@@ -15,3 +15,4 @@
     + Nexus 6P XDA thread: https://forum.xda-developers.com/nexus-6p/development/rom-pure-nexus-layers-fi-wifi-calling-t3244563
     + Nexus 5X XDA thread: https://forum.xda-developers.com/nexus-5x/development/rom-pure-nexus-layers-fi-wifi-calling-t3244601
     + Nexus 6 XDA thread: https://forum.xda-developers.com/nexus-6/development/rom-pure-nexus-project-t3148214
++ **Source code location:** https://github.com/PureNexusProject
