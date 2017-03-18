@@ -20,6 +20,7 @@ Each ROM will have their own page with their info.
 
 + [ABC ROM](ROMs/ABC.md)
 + [AICP](ROMs/AICP.md)
++ [AOSiP](ROMs/AOSiP.md)
 + [Beltz](ROMs/Beltz.md)
 + [CarbonROM](ROMs/Carbon.md)
 + [Dirty Unicorns](ROMs/DU.md)
