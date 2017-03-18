@@ -26,6 +26,7 @@ Each ROM will have their own page with their info.
 + [Beltz](ROMs/Beltz.md)
 + [Benzo ROM](ROMs/Benzo.md)
 + [CarbonROM](ROMs/Carbon.md)
++ [DarkNess reDefined](ROMs/DRD.md)
 + [Dirty Unicorns](ROMs/DU.md)
 + [FireHound](ROMs/FireHound.md)
 + [HalogenOS](ROMs/Halogen.md)
