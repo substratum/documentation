@@ -32,6 +32,7 @@ Each ROM will have their own page with their info.
 + [NitrogenOS](ROMs/NitrogenOS.md)
 + [OmniROM](ROMs/Omni.md)
 + [Pure Nexus](ROMs/PN.md)
++ [ResurrectionRemix](ROMs/RR.md)
 + [Tesla](ROMs/Tesla.md)
 + [Tipsy](ROMs/Tipsy.md)
 + [Uber ROM](ROMs/Uber.md)
