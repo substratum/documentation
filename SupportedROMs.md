@@ -25,6 +25,7 @@ Each ROM will have their own page with their info.
 + [Beltz](ROMs/Beltz.md)
 + [CarbonROM](ROMs/Carbon.md)
 + [Dirty Unicorns](ROMs/DU.md)
++ [HalogenOS](ROMs/Halogen.md)
 + [Krexus](ROMs/Krexus.md)
 + [OmniROM](ROMs/Omni.md)
 + [Pure Nexus](ROMs/PN.md)
