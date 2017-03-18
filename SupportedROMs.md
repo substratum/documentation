@@ -38,3 +38,10 @@ Each ROM will have their own page with their info.
 + [Validus](ROMs/Validus.md)
 + [Vanilla](ROMs/Vanilla.md)
 + [Vanir](ROMs/Vanir.md)
+
+
+# List of unsupported ROMs
+
+These are ROMs that are known to have issues due to features or an unwillingness to work alongside us. We will not provide support for these under ANY conditions.
+
++ Slim ROMs
