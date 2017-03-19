@@ -48,6 +48,7 @@ Each ROM will have their own page with their info.
 + [Validus](ROMs/Validus.md)
 + [Vanilla](ROMs/Vanilla.md)
 + [Vanir](ROMs/Vanir.md)
++ [XenonHD](ROMs/XenonHD.md)
 
 
 # List of unsupported ROMs
