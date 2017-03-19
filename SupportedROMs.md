@@ -30,6 +30,7 @@ Each ROM will have their own page with their info.
 + [DarkNess reDefined](ROMs/DRD.md)
 + [Dirty Unicorns](ROMs/DU.md)
 + [Euclidean OS](ROMs/EuclideanOS.md)
++ [Evervolv](ROMs/Evervolv.md)
 + [FireHound](ROMs/FireHound.md)
 + [Flash ROM](ROMs/FlashROM.md)
 + [HalogenOS](ROMs/Halogen.md)
