@@ -38,6 +38,7 @@ Each ROM will have their own page with their info.
 + [Krexus](ROMs/Krexus.md)
 + [Legend ROM](ROMs/Legend.md)
 + [LiquidDeathOS](ROMs/LiquidDeathOS.md)
++ [madOS](ROMs/madOS.md)
 + [Mokee](ROMs/Mokee.md)
 + [noobbuilds](ROMs/noobbuilds.md)
 + [NitrogenOS](ROMs/NitrogenOS.md)
