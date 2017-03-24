@@ -21,6 +21,7 @@ Each ROM will have their own page with their info.
 
 + [ABC ROM](ROMs/ABC.md)
 + [AICP](ROMs/AICP.md)
++ [AOKP](ROMs/AOKP.md)
 + [AOSiP](ROMs/AOSiP.md)
 + [AOSP Extended](ROMs/AOSPExtended.md)
 + [Beltz](ROMs/Beltz.md)
