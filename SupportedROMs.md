@@ -53,6 +53,7 @@ Each ROM will have their own page with their info.
 + [Validus](ROMs/Validus.md)
 + [Vanilla](ROMs/Vanilla.md)
 + [Vanir](ROMs/Vanir.md)
++ [VertexOS](ROMs/VertexOS.md)
 + [XenonHD](ROMs/XenonHD.md)
 
 
