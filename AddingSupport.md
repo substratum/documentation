@@ -5,6 +5,8 @@ to your appropriate repos and inline Theme Interfacer. We prefer that the Substr
 app be downloaded from the Play Store by the users who want it but if you want
 to inline it, it must be included as a prebuilt (which I will go over below).
 
+If you are based on LineageOS, you may consider checking out [this thread](https://forum.xda-developers.com/apps/substratum/reference-lineageos-substratum-support-t3580276), as it will be tailored specifically to that ROM. Anything AOSP based should follow this guide.
+
 # Step 1: Add our framework changes
 
 We keep all of our framework changes in the [SubstratumResources organization](https://github.com/SubstratumResources).
