@@ -44,6 +44,7 @@ Each ROM will have their own page with their info.
 + [noobbuilds](ROMs/noobbuilds.md)
 + [NitrogenOS](ROMs/NitrogenOS.md)
 + [NucleaRom](ROMs/NucleaRom.md)
++ [OctOS](ROMs/OctOS.md)
 + [OmniROM](ROMs/Omni.md)
 + [Pure Nexus](ROMs/PN.md)
 + [ResurrectionRemix](ROMs/RR.md)
