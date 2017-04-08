@@ -28,6 +28,7 @@ Each ROM will have their own page with their info.
 + [Benzo ROM](ROMs/Benzo.md)
 + [CarbonROM](ROMs/Carbon.md)
 + [Cosmic-OS](ROMs/Cosmic-OS.md)
++ [crDroid](ROMs/crDroid.md)
 + [DarkNess reDefined](ROMs/DRD.md)
 + [Dirty Unicorns](ROMs/DU.md)
 + [Euclidean OS](ROMs/EuclideanOS.md)
