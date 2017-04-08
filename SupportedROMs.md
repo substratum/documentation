@@ -1,6 +1,6 @@
 # List of supported ROMs
 
-**NOTE:** This list is not all inclusive. There may be other ROMs out there that work perfectly fine with Substratum. This is just a jumping off point for people who want to dive into the world of Substratum without any limits. If you want your ROM added to this list, feel free to fill out this Google form: https://docs.google.com/forms/d/e/1FAIpQLSdazHsGs084963mmFOM4ceAkJv0TaYUvcySxljw9SnFE7kNfg/viewform
+**NOTE:** This list is not all inclusive. There may be other ROMs out there that work perfectly fine with Substratum. This is just a jumping off point for people who want to dive into the world of Substratum without any limits. If you want your ROM added to this list, feel free to either create a pull request using [this template](ROMs/Template.md) (reference the other ROMs for examples) or fill out this Google form: https://docs.google.com/forms/d/e/1FAIpQLSdazHsGs084963mmFOM4ceAkJv0TaYUvcySxljw9SnFE7kNfg/viewform
 
 Before submitting, you should make sure your ROM is up to date with all of our commits on both Github and Gerrit at the links below:
 
