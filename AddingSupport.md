@@ -14,17 +14,17 @@ We keep all of our framework changes in the [SubstratumResources organization](h
 Currently, there are changes in the following repos (between OMS7 and our
 exposures that we have tried to label).
 
-+ [frameworks/base](https://github.com/SubstratumResources/platform_frameworks_base/commits/n-mr1-rootless)
-+ [frameworks/native](https://github.com/SubstratumResources/platform_frameworks_native/commits/n-mr1-rootless)
-+ [packages/apps/Contacts](https://github.com/SubstratumResources/platform_packages_apps_contacts/commits/n-mr1-rootless)
-+ [packages/apps/ContactsCommon](https://github.com/SubstratumResources/platform_packages_apps_ContactsCommon/commits/n-mr1-rootless)
-+ [packages/apps/Dialer](https://github.com/SubstratumResources/platform_packages_apps_Dialer/commits/n-mr1-rootless)
-+ [packages/apps/ExactCalculator](https://github.com/SubstratumResources/platform_packages_apps_ExactCalculator/commits/n-mr1-rootless)
-+ [packages/apps/PackageInstaller](https://github.com/SubstratumResources/platform_packages_apps_PackageInstaller/commits/n-mr1-rootless)
-+ [packages/apps/PhoneCommon](https://github.com/SubstratumResources/platform_packages_apps_PhoneCommon/commits/n-mr1-rootless)
-+ [packages/apps/Settings](https://github.com/SubstratumResources/platform_packages_apps_settings/commits/n-mr1-rootless)
-+ [system/core](https://github.com/SubstratumResources/platform_system_core/commits/n-mr1-rootless)
-+ [system/sepolicy](https://github.com/SubstratumResources/platform_system_sepolicy/commits/n-mr1-rootless)
++ [frameworks/base](https://github.com/SubstratumResources/platform_frameworks_base/commits/n-mr2)
++ [frameworks/native](https://github.com/SubstratumResources/platform_frameworks_native/commits/n-mr2)
++ [packages/apps/Contacts](https://github.com/SubstratumResources/platform_packages_apps_contacts/commits/n-mr2)
++ [packages/apps/ContactsCommon](https://github.com/SubstratumResources/platform_packages_apps_ContactsCommon/commits/n-mr2)
++ [packages/apps/Dialer](https://github.com/SubstratumResources/platform_packages_apps_Dialer/commits/n-mr2)
++ [packages/apps/ExactCalculator](https://github.com/SubstratumResources/platform_packages_apps_ExactCalculator/commits/n-mr2)
++ [packages/apps/PackageInstaller](https://github.com/SubstratumResources/platform_packages_apps_PackageInstaller/commits/n-mr2)
++ [packages/apps/PhoneCommon](https://github.com/SubstratumResources/platform_packages_apps_PhoneCommon/commits/n-mr2)
++ [packages/apps/Settings](https://github.com/SubstratumResources/platform_packages_apps_settings/commits/n-mr2)
++ [system/core](https://github.com/SubstratumResources/platform_system_core/commits/n-mr2)
++ [system/sepolicy](https://github.com/SubstratumResources/platform_system_sepolicy/commits/n-mr2)
 
 For the projekt_*.xml files, you can add those changes to your own ROM's xml
 files without any issues. If you get merge conflicts on any of the framework
@@ -41,7 +41,7 @@ git cherry-pick SHA1
 
 Example:
 ```bash
-git fetch https://github.com/SubstratumResources/platform_frameworks_base n-mr1-rootless
+git fetch https://github.com/SubstratumResources/platform_frameworks_base n-mr2
 git cherry-pick 7b1db662f29429470ae603f070aedbdb5851f155
 ```
 

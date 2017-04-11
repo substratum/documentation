@@ -28,16 +28,16 @@ that was generated.
 
 ### 3. Clone the repo you want to change
 
-Clone the repo from the link above. Everything is currently done on our n-mr1-rootless branch for the framework and n-rootless branch for Theme Interfacer.
+Clone the repo from the link above. Everything is currently done on our n-mr2 branch for the framework and n-rootless branch for Theme Interfacer.
 
 ```bash
-git clone -b n-mr1-rootless <repo_url>
+git clone -b n-mr2 <repo_url>
 git clone -b n-rootless https://github.com/substratum/interfacer
 ```
 
 Example:
 ```bash
-git clone -b n-mr1-rootless https://github.com/SubstratumResources/platform_frameworks_base
+git clone -b n-mr2 https://github.com/SubstratumResources/platform_frameworks_base
 ```
 
 ### 4. Make and commit your changes
@@ -81,7 +81,7 @@ Our list of projects are available [here](https://substratum.review/#/admin/proj
 
 Example:
 ```bash
-git push ssh://nathanchance@substratum.review:29418/SubstratumResources/platform_frameworks_base HEAD:refs/for/n-mr1-rootless
+git push ssh://nathanchance@substratum.review:29418/SubstratumResources/platform_frameworks_base HEAD:refs/for/n-mr2
 ```
 
 If you need to make any changes to your patch, use `git commit --amend` then push
