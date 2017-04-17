@@ -88,6 +88,24 @@ If you need to make any changes to your patch, use `git commit --amend` then pus
 again using the same command as above. Creating a new commit will push a new
 change. Also be sure not to change the commit ID.
 
+### 6. Add reviewers
+
+In order to have your change accepted into the Substratum repos, it will need to
+be reviewed by Substratum team members and members of the community. The following
+members have global merge rights and can review patches across all repos:
++ [George G.](https://github.com/KreAch3R)
++ [Ivan Iskandar](https://github.com/iskandar1023)
++ [Nathan Chancellor](https://github.com/nathanchance)
++ [Nicholas Chum](https://github.com/nicholaschum)
++ [Surge Raval](https://github.com/Surge1223)
++ [Syko Pompos](https://github.com/sykopompos)
+
+All of the team will check Gerrit periodically but Ivan, Nathan, Nick, and Surge
+are more active so adding one of them will give your patch a higher chance of
+getting merged quicker. They will assign your patch with a review, the meaning
+of which can be viewed [here](https://gerrit-review.googlesource.com/Documentation/config-labels.html#label_Code-Review)
+and [here](https://gerrit-review.googlesource.com/Documentation/config-labels.html#label_Verified).
+
 
 # Submitting application changes
 
