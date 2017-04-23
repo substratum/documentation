@@ -1,6 +1,8 @@
 # List of supported ROMs
 
-**NOTE:** This list is not all inclusive. There may be other ROMs out there that work perfectly fine with Substratum. This is just a jumping off point for people who want to dive into the world of Substratum without any limits. If you want your ROM added to this list, feel free to either create a pull request using [this template](ROMs/Template.md) (reference the other ROMs for examples) or fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdazHsGs084963mmFOM4ceAkJv0TaYUvcySxljw9SnFE7kNfg/viewform).
+**PLEASE NOTE:** This list is not all inclusive. These are the ROMs that have gone out of their way to make it known that they support Substratum fully; however, there may be other ROMs out there that work perfectly fine with Substratum and are not here. This is just a jumping off point for people who want to dive into the world of Substratum without any limits. If you are on a ROM that fully supports Substratum but it is not here, encourage your ROM developer to come here and follow the next steps to get supported.
+
+**ROM developers:** If you want your ROM added to this list, please create a pull request to this repo using [this template](ROMs/Template.md) (reference the other ROMs for examples) and our database repo using the information in [the README](https://github.com/substratum/database). You must do both otherwise they will not be accepted. Should you be unfamiliar with this process, you can also fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdazHsGs084963mmFOM4ceAkJv0TaYUvcySxljw9SnFE7kNfg/viewform) but it can take more time for this to be merged as it will require manual input and review. Please do not submit a request to this repo or the Google form if you do not have public builds available. You can submit a build.prop entry to the Database repo so that you see your ROM is supported in Substratum settings but this repo is supposed to be for public facing builds only.
 
 Before submitting, you should make sure your ROM is up to date with all of our commits on both Github and Gerrit at the links below:
 
@@ -17,7 +19,7 @@ Before submitting, you should make sure your ROM is up to date with all of our c
 + [system/core](https://github.com/SubstratumResources/platform_system_core/commits/n-mr2)
 + [system/sepolicy](https://github.com/SubstratumResources/platform_system_sepolicy/commits/n-mr2)
 
-Each ROM will have their own page with their info.
+Each ROM will have their own page with their info and will show up in Substratum's settings as community supported.
 
 + [ABC ROM](ROMs/ABC.md)
 + [AICP](ROMs/AICP.md)
