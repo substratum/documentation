@@ -16,7 +16,6 @@ Before submitting, you should make sure your ROM is up to date with all of our c
 + [packages/apps/PhoneCommon](https://github.com/SubstratumResources/platform_packages_apps_PhoneCommon/commits/n-mr2)
 + [packages/apps/Settings](https://github.com/SubstratumResources/platform_packages_apps_settings/commits/n-mr2)
 + [packages/apps/Theme Interfacer](https://github.com/substratum/interfacer/commits/n-rootless)
-+ [system/core](https://github.com/SubstratumResources/platform_system_core/commits/n-mr2)
 + [system/sepolicy](https://github.com/SubstratumResources/platform_system_sepolicy/commits/n-mr2)
 
 Each ROM will have their own page with their info and will show up in Substratum's settings as community supported.

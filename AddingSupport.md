@@ -23,7 +23,6 @@ exposures that we have tried to label).
 + [packages/apps/PackageInstaller](https://github.com/SubstratumResources/platform_packages_apps_PackageInstaller/commits/n-mr2)
 + [packages/apps/PhoneCommon](https://github.com/SubstratumResources/platform_packages_apps_PhoneCommon/commits/n-mr2)
 + [packages/apps/Settings](https://github.com/SubstratumResources/platform_packages_apps_settings/commits/n-mr2)
-+ [system/core](https://github.com/SubstratumResources/platform_system_core/commits/n-mr2)
 + [system/sepolicy](https://github.com/SubstratumResources/platform_system_sepolicy/commits/n-mr2)
 
 For the projekt_*.xml files, you can add those changes to your own ROM's xml
