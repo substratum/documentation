@@ -63,7 +63,7 @@ your manifest (leave out the remote if you already have one for Github):
 <remote name="github"
         fetch="https://github.com/" />
 
-<project path="packages/apps/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
+<project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
 ```
 
 You may also fork it and add our changes as we push them (you will need to pay
