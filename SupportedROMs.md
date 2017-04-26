@@ -50,6 +50,7 @@ Each ROM will have their own page with their info and will show up in Substratum
 + [OmniROM](ROMs/Omni.md)
 + [Pure Nexus](ROMs/PN.md)
 + [ResurrectionRemix](ROMs/RR.md)
++ [SAOSP](ROMs/SAOSP.md)
 + [Tesla](ROMs/Tesla.md)
 + [Tipsy](ROMs/Tipsy.md)
 + [Uber ROM](ROMs/Uber.md)
