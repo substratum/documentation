@@ -25,6 +25,7 @@ Each ROM will have their own page with their info and will show up in Substratum
 + [AOKP](ROMs/AOKP.md)
 + [AOSiP](ROMs/AOSiP.md)
 + [AOSP Extended](ROMs/AOSPExtended.md)
++ [AquariOS](ROMs/AquariOS.md)
 + [Beltz](ROMs/Beltz.md)
 + [Benzo ROM](ROMs/Benzo.md)
 + [CarbonROM](ROMs/Carbon.md)
