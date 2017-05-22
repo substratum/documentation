@@ -60,6 +60,7 @@ Each ROM will have their own page with their info and will show up in Substratum
 + [Vanilla](ROMs/Vanilla.md)
 + [Vanir](ROMs/Vanir.md)
 + [VertexOS](ROMs/VertexOS.md)
++ [ViperOS](ROMs/ViperOS.md)
 + [XenonHD](ROMs/XenonHD.md)
 
 
