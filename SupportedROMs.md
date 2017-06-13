@@ -36,7 +36,6 @@ Each ROM will have their own page with their info and will show up in Substratum
 + [Euclidean OS](ROMs/EuclideanOS.md)
 + [Evervolv](ROMs/Evervolv.md)
 + [FireHound](ROMs/FireHound.md)
-+ [Flash ROM](ROMs/FlashROM.md)
 + [HalogenOS](ROMs/Halogen.md)
 + [ibrokemyrom](ROMs/ibrokemyrom.md)
 + [Krexus](ROMs/Krexus.md)
@@ -63,10 +62,3 @@ Each ROM will have their own page with their info and will show up in Substratum
 + [VertexOS](ROMs/VertexOS.md)
 + [ViperOS](ROMs/ViperOS.md)
 + [XenonHD](ROMs/XenonHD.md)
-
-
-# List of unsupported ROMs
-
-These are ROMs that are known to have issues due to features or an unwillingness to work alongside us. We will not provide support for these under ANY conditions.
-
-+ Slim ROMs
