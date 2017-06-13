@@ -3,8 +3,14 @@
 In this repo, there will information regarding Substratum, OMS7, and our theme
 template. This is meant to be a jumping off point for ROMs and themers wanting
 to get on board with our platform. If there is something you feel needs to be
-added, please contact Nathan Chancellor via email (natechancellor@gmail.com),
-Hangouts (the same as email), or Telegram (@nathanchance).
+added, either contact Nathan Chancellor using the info below or open an issue/pull
+request in this repo.
+
+Themers, please view [this](https://github.com/substratum/database#substratum-database)
+for info on submitting your theme for the showcase.
+
+ROM developers, please read the top of the supported ROMs page for info on adding
+your ROM to that list.
 
 # Current pages
 
@@ -15,13 +21,40 @@ Hangouts (the same as email), or Telegram (@nathanchance).
 + [Building Substratum](BuildingSubstratum.md)
 + [Creating a theme](https://github.com/substratum/template/blob/master/README.md)
 
-# Important links
+# Important technical links
 
-+ [Substratum Google+ community](https://plus.google.com/communities/102261717366580091389): Used for support
 + [Substratum](https://github.com/substratum/substratum): The user facing application
 + [Theme Interfacer](https://github.com/substratum/interfacer): Our link between Substratum and the framework (compiled inline)
 + [OMS7 framework repos](https://github.com/SubstratumResources): The OMS7 framework changes along with our exposures
 + [Theme Template](https://github.com/substratum/template): The official Substratum theme template
 + [Substratum Gerrit](https://substratum.review/): Our Gerrit server for code reviewing framework changes
-+ [Showcase submission form](https://docs.google.com/forms/d/e/1FAIpQLSf5p5Lcag6jdrAz9wZ3UYiIy_Rm0mEko6z79wBjmZlGXunzgg/viewform): The app includes a built in showcase for supported themes. This form gets your theme into that showcase
-+ [ROM submission form](https://docs.google.com/forms/d/e/1FAIpQLSdazHsGs084963mmFOM4ceAkJv0TaYUvcySxljw9SnFE7kNfg/viewform): This repo contains a list of ROMs that fully support our system. Let us promote you!
+
+# Getting help
+
+Please understand that the Substratum team has a lot of responsibility and real
+life to worry about so it can take time for your issue to be dealt with! Please
+refer to the following table for info on where to go to be properly assisted.
+
+| Category | Course of action (CHOOSE ONE)|
+| -------- | --------------- |
+| App/theme related issues | <ul><li>Post in the [Substratum Google+ community](https://plus.google.com/communities/102261717366580091389)</li><li>Join our [Telegram support channel](https://t.me/SubstratumSupport)</li></ul> |
+| Platform or Interfacer issues/questions | <ul><li>Post in the [Substratum platform Google+ community](https://plus.google.com/communities/105732963804651618302)</li><li>Post in our [XDA thread](https://forum.xda-developers.com/apps/substratum/qa-issues-building-substratum-support-t3606400)</li><li>Open a Github issue in [SubstratumResources](https://github.com/SubstratumResources) or [Interfacer](https://github.com/substratum/interfacer)</li></ul> |
+| Theming related questions | <ul><li>Post in the [Substratum theming community](https://plus.google.com/communities/115836704077809559459)</li><li>Post in the [XDA thread](https://forum.xda-developers.com/apps/substratum/qa-questions-theming-t3585703)</li></ul> |
+| Any other issues (sensitive, personal, kang, unknown) | Contact Nathan Chancellor via either:<ul><li>Telegram ([@nathanchance](https://t.me/nathanchance))</li><li>XDA ([@The Flash](https://forum.xda-developers.com/private.php?do=newpm&u=6842057))</li></ul> |
+
+# Team info and responsibilities
+
+These are the people who make Substratum what it is. We have many contributors
+but these are the people who ultimately review and handle how Substratum is run.
+If you have any questions or concerns, please contact Nathan Chancellor using the
+info above and he will make sure everything is handled accordingly.
+
+| Name | Title | Responsibilities |
+| ---- | ----- | ---------------- |
+| [Nicholas Chum](https://plus.google.com/116845249995235969561) | Lead Substratum Developer | Handles the direction of Substratum the engine (app and platform integration) |
+| [Sykopompos](https://plus.google.com/118195502410326243266) | Team Coordinator | Handles all of the team coordination and issues while providing input for technical issues |
+| [Ivan Iskandar](https://plus.google.com/113681459766686715137) | Theme Engine Developer | Handles Substratum app development along with Interfacer and theme exposures |
+| [Surge Raval](https://plus.google.com/109273915986671208869) | Binary and Algorithm Developer | Handles AOPT, Interfacer, and sepolicy in platform |
+| [George G.](https://plus.google.com/114816182446168298241) | Lead Experimental Developer | Handles platform side integration in frameworks and sepolicy |
+| [Nathan Chancellor](https://plus.google.com/+NathanChancellor) | Documentation, community, and developer relations | Handles the organization and review of Substratum across XDA, Google+, and Github, as well as handling any issues with themers and developers  |
+| [Char G](https://plus.google.com/111364450399560739239) | Social media community organizer | Handles Substratum community relations and announcements |
