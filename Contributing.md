@@ -150,3 +150,5 @@ git commit --amend --author="Name <email>"
 We cannot promise that every change will be merged but we will evaluate the changes
 that are pushed in a fair manner. Theme template changes can be submitted in the
 same manner as the Substratum app.
+
+If you would like to discuss development with us in depth, please reach out using the information in the main README to join our Slack.
