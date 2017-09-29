@@ -23,7 +23,7 @@ your ROM to that list.
 + [List of supported ROMs](SupportedROMs.md)
 + [Contributing to our project](Contributing.md)
 + [Building Substratum](BuildingSubstratum.md)
-+ [Creating a theme](https://github.com/substratum/template/blob/master/README.md)
++ [Creating a theme](https://github.com/substratum/template/blob/kt-n/README.md)
 
 # Important technical links
 
