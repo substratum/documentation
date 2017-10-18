@@ -62,3 +62,5 @@ info above and he will make sure everything is handled accordingly.
 | [George G.](https://plus.google.com/114816182446168298241) | Lead Experimental Developer | Handles platform side integration in frameworks and sepolicy |
 | [Nathan Chancellor](https://plus.google.com/+NathanChancellor) | Documentation, community, and developer relations | Handles the organization and review of Substratum across XDA, Google+, and Github, as well as handling any issues with themers and developers  |
 | [Char G](https://plus.google.com/111364450399560739239) | Social media community organizer | Handles Substratum community relations and announcements |
+| [Harsh Shandilya](https://plus.google.com/u/0/117089373550039191529) | App Engine Developer | Handles Substratum app development along with Interfacer and theme exposures |
+
