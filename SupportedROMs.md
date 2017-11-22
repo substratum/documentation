@@ -31,6 +31,7 @@ Each ROM will have their own page with their info and will show up in Substratum
 + [CarbonROM](ROMs/Carbon.md)
 + [Cosmic-OS](ROMs/Cosmic-OS.md)
 + [crDroid](ROMs/crDroid.md)
++ [dotOS](ROMs/dotOS.md)
 + [DarkNess reDefined](ROMs/DRD.md)
 + [Dirty Unicorns](ROMs/DU.md)
 + [Euclidean OS](ROMs/EuclideanOS.md)
