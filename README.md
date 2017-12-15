@@ -16,22 +16,12 @@ for info on submitting your theme for the showcase.
 ROM developers, please read the top of the supported ROMs page for info on adding
 your ROM to that list.
 
-# Current pages
+# Index
 
-+ [Frequently Asked Questions](FAQ.md)
-+ [Adding Substratum support to your ROM](AddingSupport.md)
-+ [List of supported ROMs](SupportedROMs.md)
-+ [Contributing to our project](Contributing.md)
-+ [Building Substratum](BuildingSubstratum.md)
-+ [Creating a theme](https://github.com/substratum/template/blob/kt-n/README.md)
+We currently support two versions of Android: Nougat (7.x) and Oreo (8.x); the documentation is split to reflect this. Additionally, the information is split up between documentation for users and developers.
 
-# Important technical links
-
-+ [Substratum](https://github.com/substratum/substratum): The user facing application
-+ [Theme Interfacer](https://github.com/substratum/interfacer): Our link between Substratum and the framework (compiled inline)
-+ [OMS7 framework repos](https://github.com/SubstratumResources): The OMS7 framework changes along with our exposures
-+ [Theme Template](https://github.com/substratum/template): The official Substratum theme template
-+ [Substratum Gerrit](https://substratum.review/): Our Gerrit server for code reviewing framework changes
+* [Nougat table of contents]()
+* [Oreo table of contents]()
 
 # Getting help
 
