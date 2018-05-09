@@ -28,6 +28,7 @@ Each ROM will have their own page with their info and will show up in Substratum
 + [AquariOS](ROMs/AquariOS.md)
 + [Beltz](ROMs/Beltz.md)
 + [Benzo ROM](ROMs/Benzo.md)
++ [CandyRoms](ROMs/Candy.md)
 + [CarbonROM](ROMs/Carbon.md)
 + [Cosmic-OS](ROMs/Cosmic-OS.md)
 + [crDroid](ROMs/crDroid.md)
