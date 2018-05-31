@@ -28,6 +28,7 @@ Each ROM will have their own page with their info and will show up in Substratum
 + [ibrokemyrom](ROMs/ibrokemyrom.md)
 + [Krexus](ROMs/Krexus.md)
 + [Legend ROM](ROMs/Legend.md)
++ [NLOS](ROMs/NLOS.md)
 + [noobbuilds](ROMs/noobbuilds.md)
 + [NucleaRom](ROMs/NucleaRom.md)
 + [OctOS](ROMs/OctOS.md)
