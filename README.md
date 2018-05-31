@@ -20,8 +20,8 @@ your ROM to that list.
 
 We currently support two versions of Android: Nougat (7.x) and Oreo (8.x); the documentation is split to reflect this. Additionally, the information is split up between documentation for users and developers.
 
-* [Nougat table of contents]()
-* [Oreo table of contents]()
+* [Nougat table of contents](Nougat)
+* [Oreo table of contents](Oreo)
 
 # Getting help
 
