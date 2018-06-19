@@ -20,6 +20,7 @@ Each ROM will have their own page with their info and will show up in Substratum
 + [CandyRoms](ROMs/Candy.md)
 + [CarbonROM](ROMs/Carbon.md)
 + [Cardinal](ROMs/Cardinal.md)
++ [ColtOS ROM](ROMs/ColtOS.md)
 + [Cosmic-OS](ROMs/Cosmic-OS.md)
 + [GZOSP](ROMs/GZOSP.md)
 + [halogenOS](ROMs/Halogen.md)
