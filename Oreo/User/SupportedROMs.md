@@ -25,6 +25,7 @@ Each ROM will have their own page with their info and will show up in Substratum
 + [GZOSP](ROMs/GZOSP.md)
 + [halogenOS](ROMs/Halogen.md)
 + [Krexus](ROMs/Krexus.md)
++ [LLuviaOS](ROMs/LLuviaOS.md)
 + [MSM Xtended ROM](Xtended.md)
 + [NLOS](ROMs/NLOS.md)
 + [ResurrectionRemix](ROMs/RR.md)
