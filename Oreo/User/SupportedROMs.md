@@ -29,5 +29,6 @@ Each ROM will have their own page with their info and will show up in Substratum
 + [MSM Xtended ROM](Xtended.md)
 + [NLOS](ROMs/NLOS.md)
 + [ResurrectionRemix](ROMs/RR.md)
++ [ToxycOS](ROMs/ToxycOS.md)
 + [Validus](ROMs/Validus.md)
 + [XenonHD](ROMs/XenonHD.md)
