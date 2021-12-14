@@ -50,6 +50,7 @@ Each ROM will have their own page with their info and will show up in Substratum
 + [OctOS](ROMs/OctOS.md)
 + [OmniROM](ROMs/Omni.md)
 + [OwnROM](ROMs/OwnROM.md)
++ [Project Kasumi "Backstage"](ROMs/Kasumi.md)
 + [Pure Nexus](ROMs/PN.md)
 + [ResurrectionRemix](ROMs/RR.md)
 + [SAOSP](ROMs/SAOSP.md)
